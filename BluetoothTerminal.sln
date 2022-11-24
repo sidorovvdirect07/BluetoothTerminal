@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BluetoothTerminal", "BluetoothTerminal.vcxproj", "{78F66D5E-D2FE-3865-B663-E373243D06AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78F66D5E-D2FE-3865-B663-E373243D06AD}.Debug|x64.ActiveCfg = Debug|x64
+		{78F66D5E-D2FE-3865-B663-E373243D06AD}.Debug|x64.Build.0 = Debug|x64
+		{78F66D5E-D2FE-3865-B663-E373243D06AD}.Release|x64.ActiveCfg = Release|x64
+		{78F66D5E-D2FE-3865-B663-E373243D06AD}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47BD1D2D-A54A-4362-85CA-2329E848A5F5}
+	EndGlobalSection
+EndGlobal
